@@ -5,6 +5,4 @@
 -->
 
 
-## ToDay I Learned 🌈
-
-  - [ToDay I Learned](https://github.com/HongEunbeen/Today-I-Learned)
+#### ToDay I Learned [🌈](https://github.com/HongEunbeen/Today-I-Learned)
