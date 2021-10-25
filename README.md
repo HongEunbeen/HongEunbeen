@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   📕  I like to read development books <a href="https://github.com/Coveong/reading-books-for-programmers">(📌 go reading books repo )</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ✍  Today Algorithm (boj) <a href="https://github.com/HongEunbeen/Today_Algorithm">(📌 go algorithm repo )</a><br/>
+  ✍  Today Algorithm (boj & leetcode) <a href="https://github.com/HongEunbeen/Today_Algorithm">(📌 go algorithm repo )</a><br/>
 </p>
   
 </div>
