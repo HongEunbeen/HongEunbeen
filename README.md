@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c%20sharp&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotNET&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a><br/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp;
