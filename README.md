@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=HongEunbeen&fontSize=40)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=6ACDC7&lines=%EA%92%B0%E2%97%8D%CB%8A%E2%97%A1%CB%8B%EA%92%B1%E0%A9%AD%E0%A5%81%E2%81%BE%E2%81%BE%E2%99%A1)](https://git.io/typing-svg)
-
 <h3 align="center">🌈 My Tech profile🌈</h3>
 
 <p align="center">
@@ -33,3 +31,5 @@
   <a href="mailto:vvvv980@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=EA4335"/></a>&nbsp 
   <a href="https://velog.io/@eunoia"><img src="https://img.shields.io/badge/Velog-40C392?style=social&logo=vimeo&logoColor=40C392"/></a>&nbsp
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=6ACDC7&lines=%EA%92%B0%E2%97%8D%CB%8A%E2%97%A1%CB%8B%EA%92%B1%E0%A9%AD%E0%A5%81%E2%81%BE%E2%81%BE%E2%99%A1)](https://git.io/typing-svg)
